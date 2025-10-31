@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Haipeng Liu's Personal Info"
+title: "Personal Info"
 author_profile: true
 redirect_from: 
   - /about/
