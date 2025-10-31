@@ -23,7 +23,7 @@ repository               : "lhproc/lhproc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_lhproc.png"
   name             : "Haipeng Liu"
   pronouns         : "he/him"  
   bio              : "A researcher in computer graphics"
