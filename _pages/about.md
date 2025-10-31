@@ -22,6 +22,7 @@ Education
 
 Work Experience
 ======
+
 07, 2017 – Now  	Shanghai Suixuntong Electronic Technology Co., Ltd.
 ------
 
