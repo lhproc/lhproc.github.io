@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <br>
+
 About Me
 ======
 I am Haipeng Liu, a researcher in computer graphics.
