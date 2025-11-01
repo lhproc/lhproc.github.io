@@ -14,38 +14,26 @@ I am Haipeng Liu, a researcher in computer graphics.
 - Mobile Phone: +8613761829796
 - E-mail: benny.liu@bytedance.com
 
+
 Education
 ======
-- 09, 2003 – 07, 2007  	Tongji University  Bachelor, Automation
-- 09, 2007 – 04, 2010  	Tongji University  Master, Control Theory and Control Engineering
+* M.S. in Control Theory and Control Engineering, Tongji University, 2010
+* B.S. in Automation, Tongji University, 2007
 
-Work Experience
+Work experience
 ======
+* 2017 – Now: Graphics Engine Leader
+  * Shanghai Suixuntong Electronic Technology Co., Ltd.
+  * Duties includes: Developing a rendering engine to help App users to capture short videos with interesting effects. I’m mainly in charge of developing a rendering engine, which includes cross-platform rendering capability, rendering pipelines and rendering asserts library. Besides, There are thousands of third-part effect developers. So, my team also provide user-friendly tools to help them develop high-performance effects.
 
-07, 2017 – Now  	Shanghai Suixuntong Electronic Technology Co., Ltd.
-------
+* 2014 – 2017: CTO
+  * Shanghai Launcher Software Co. Ltd.
+  * Duties included: Developed customized 3D Launchers for mobile phone manufacturer. Programed a 3D engine for developing 3D Launchers.
 
-Rendering Engine Engineer <br>
-
-Developing a rendering engine to help App users to capture short videos with interesting effects. I’m mainly in charge of developing a rendering engine, which includes cross-platform rendering capability, rendering pipelines and rendering asserts library. Besides, There are thousands of third-part effect developers. So, my team also provide user-friendly tools to help them develop high-performance effects.
-
-04, 2014 – 01, 2017  	Shanghai Launcher Software Co. Ltd.
-------
-
-Software Engineer <br>
-
-Developed customized 3D Launchers for mobile phone manufacturer. Programed a 3D engine for developing 3D Launchers.
-
-08, 2011 – 04, 2014  	Spreadtrum Communications, Inc.
-------
-
-Field Application Engineer <br>
-
-Designed and developed 3D Launchers and provided graphics technology support for SPRD partners. Located and fixed bugs of the launcher in SPRD android OS. 
-
-08, 2011 – 04, 2014  	Schneider Electric SA
-------
-
-Firmware Engineer <br>
-
-Developed firmware for PLC(Programmable Logic Controller) and programed test project to ensure the stability of the PLC.
+* 2011 – 2014: Senior Field Application Engineer
+  * Spreadtrum Communications, Inc.
+  * Duties included: Designed and developed 3D Launchers and provided graphics technology support for SPRD partners. Located and fixed bugs of the launcher in SPRD android OS. 
+ 
+* 2010 – 2011: Firmware Engineer
+  * Schneider Electric SA
+  * Duties includes: Developed firmware for PLC(Programmable Logic Controller) and programed test project to ensure the stability of the PLC.
