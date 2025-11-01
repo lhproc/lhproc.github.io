@@ -15,11 +15,13 @@ I am Haipeng Liu, a researcher in computer graphics.
 - Business Address: T2, Douyin xinjiangwan Square, No. 678, Minfu Road, Yangpu District, Shanghai, Chinese mainland
 - Mobile Phone: +8613761829796
 - E-mail: benny.liu@bytedance.com
+<br>
 
 Education
 ======
 - M.S. in Control Theory and Control Engineering, Tongji University, 2010
 - B.S. in Automation, Tongji University, 2007
+<br>
 
 Work Experience
 ======
