@@ -9,7 +9,10 @@ redirect_from:
 
 About Me
 ======
-I am Haipeng Liu, a researcher in computer graphics.
+I am a researcher in computer graphics, who joined Bytedance Inc. in 2017 as a Lead Graphics Engineer and currently serves as a Manager, focusing on real-time video AR effects.
+
+With expertise in game engines, cross-platform rendering, and high-performance visual effects for mobile applications, I dedicates myself to bridging cutting-edge research with practical production needs in Graphics&AI and Gaming&AI.
+
 - Business Address: T2, Douyin xinjiangwan Square, No. 678, Minfu Road, Yangpu District, Shanghai, Chinese mainland
 - Mobile Phone: +8613761829796
 - E-mail: benny.liu@bytedance.com
