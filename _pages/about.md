@@ -18,31 +18,6 @@ With expertise in game engines, cross-platform rendering, and high-performance v
 - E-mail: benny.liu@bytedance.com
 <br>
 
-Education
+个人简介
 ======
-- M.S. in Control Theory and Control Engineering, Tongji University, 2010
-- B.S. in Automation, Tongji University, 2007
-<br>
-
-Work Experience
-======
-
-07, 2017 – Now  	Shanghai Suixuntong Electronic Technology Co., Ltd.
-------
-Graphics Engine Leader<br>
-Developing a rendering engine to help App users to capture short videos with interesting effects. I’m mainly in charge of developing a rendering engine, which includes cross-platform rendering capability, rendering pipelines and rendering asserts library. Besides, There are thousands of third-part effect developers. So, my team also provide user-friendly tools to help them develop high-performance effects.
-
-04, 2014 – 01, 2017  	Shanghai Launcher Software Co. Ltd.
-------
-CTO<br>
-Developed customized 3D Launchers for mobile phone manufacturer. Programed a 3D engine for developing 3D Launchers.
-
-08, 2011 – 04, 2014  	Spreadtrum Communications, Inc.
-------
-Senior Field Application Engineer<br>
-Designed and developed 3D Launchers and provided graphics technology support for SPRD partners. Located and fixed bugs of the launcher in SPRD android OS. 
-
-04, 2010 – 08, 2011  	Schneider Electric SA
-------
-Firmware Engineer<br>
-Developed firmware for PLC(Programmable Logic Controller) and programed test project to ensure the stability of the PLC.
+同济大学 2009 级控制理论与控制工程专业机器人方向硕士，精通游戏引擎架构设计、跨平台渲染技术及移动端高性能视觉特效研发。2017 年加入字节跳动以来主要负责基于实时AR算法的交互游戏引擎，目前聚焦于人工智能在图形学与游戏领域的前沿技术探索，同时实践将 AI 前沿研究成果高效落地。
