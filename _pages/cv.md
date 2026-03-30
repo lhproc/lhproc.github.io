@@ -32,6 +32,7 @@ Work experience
   
 Skills
 ======
+* 3D Generative Modeling
+* 3D Game Engine
+* MiniGame Platform
 * OpenGL/Metal/Vulkan
-* 3D Engine
-* MiniGame（Web）
