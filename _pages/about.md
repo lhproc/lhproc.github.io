@@ -16,7 +16,8 @@ With expertise in game engines, cross-platform rendering, and high-performance v
 - Business Address: T2, Douyin xinjiangwan Square, No. 678, Minfu Road, Yangpu District, Shanghai, Chinese mainland
 - Mobile Phone: +8613761829796
 - E-mail: benny.liu@bytedance.com
-<br>
+
+---
 
 个人简介
 ======
