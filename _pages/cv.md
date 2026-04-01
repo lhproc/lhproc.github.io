@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+LIU HAIPENG
+======
+
+**Place of Birth**: Jiangsu Province, Chinese mainland
+<br>
+**Mobile Phone**: +8613761829796
+<br>
+**E-mail**: lhproc.1985@gmail.com
+<br>
 
 Education
 ======
