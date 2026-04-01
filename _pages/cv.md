@@ -9,7 +9,7 @@ redirect_from:
 LIU HAIPENG
 ======
 
-**Place of Birth**: Jiangsu Province, Chinese mainland
+**City**: Shanghai
 <br>
 **Mobile Phone**: +8613761829796
 <br>
